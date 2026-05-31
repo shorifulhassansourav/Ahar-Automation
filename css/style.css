@@ -1,0 +1,12 @@
+body{
+    background:#f8f9fa;
+}
+
+.hero{
+    min-height:80vh;
+}
+
+.card{
+    border:none;
+    border-radius:12px;
+}
